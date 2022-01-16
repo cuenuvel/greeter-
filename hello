@@ -3,5 +3,5 @@
 #
 name="Leia"
 
-echo "Hi ${name}"
+echo "Hello ${name}"
 
