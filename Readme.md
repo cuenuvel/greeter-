@@ -1,1 +1,1 @@
-Hello our dear student 
+This a greeter program project. It greets the user "Leila".
